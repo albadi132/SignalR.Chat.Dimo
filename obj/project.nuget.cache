@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vwYcNGWDAE/wtlftigXpleU53Qw3EAWkue/zrWoHrjvI/L8UC3iH4IODruYbd8Q7UvCKSGEYrvu7nx+LM0194Q==",
+  "success": true,
+  "projectFilePath": "D:\\Albadi\\TestProject\\SignalR.Chat.Dimo\\SignalR.Chat.Dimo\\SignalR.Chat.Dimo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.153.17.11:8081/repository/momp-nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
