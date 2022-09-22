@@ -1,4 +1,4 @@
-namespace SignalR.Chat.Dimo.Models
+﻿namespace SignalR.Chat.Dimo.Models
 {
     public class ErrorViewModel
     {
